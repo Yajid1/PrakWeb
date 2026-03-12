@@ -24,7 +24,11 @@ $username = $_SESSION['username'];
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid px-4">
+<<<<<<< HEAD
         <a class="navbar-brand fw-bold" href="#">YAjid Salman</a>
+=======
+        <a class="navbar-brand fw-bold" href="#">CIBADUYUT SHOES</a>
+>>>>>>> efbc6ed36f2459acaa768473605552a68c6f70ce
 
         <div class="d-flex align-items-center gap-2 ms-auto">
             <!-- Tampilkan username yang sedang login -->
@@ -47,12 +51,20 @@ $username = $_SESSION['username'];
     </div>
 </nav>
 
+<<<<<<< HEAD
 
 <!-- Hero -->
 <section class="hero text-white">
     <div class="container text-center">
         <h2></h2>
         <p class="lead mb-4"></p>
+=======
+<!-- Hero -->
+<section class="hero text-white">
+    <div class="container text-center">
+        <h2>Sistem Manajemen Sepatu</h2>
+        <p class="lead mb-4">Sepatu impian dari koleksi eksklusif</p>
+>>>>>>> efbc6ed36f2459acaa768473605552a68c6f70ce
     </div>
 </section>
 
@@ -89,6 +101,7 @@ $username = $_SESSION['username'];
 
     <!-- Judul -->
     <h4 class="mb-3">Daftar Sepatu</h4>
+<<<<<<< HEAD
     <div class="container mt-5">
     <h3 class="mb-4">Daftar Sepatu</h3>
 
@@ -151,6 +164,8 @@ $username = $_SESSION['username'];
         </div>
     </div>
 </div>
+=======
+>>>>>>> efbc6ed36f2459acaa768473605552a68c6f70ce
 
     <!-- Card Produk -->
     <div class="row g-4">

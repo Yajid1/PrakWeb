@@ -51,8 +51,8 @@ $username = $_SESSION['username'];
 <!-- Hero -->
 <section class="hero text-white">
     <div class="container text-center">
-        <h2>Sistem Manajemen Sepatu</h2>
-        <p class="lead mb-4">Sepatu impian dari koleksi eksklusif</p>
+        <h2></h2>
+        <p class="lead mb-4"></p>
     </div>
 </section>
 
